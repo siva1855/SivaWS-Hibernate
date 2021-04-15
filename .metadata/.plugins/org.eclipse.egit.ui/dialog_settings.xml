@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="EGit.KnownHosts">
+		<item value="git.eclipse.org"/>
+		<item value="github.com"/>
+		<item value="bitbucket.org"/>
+	</list>
+	<list key="RepositorySelectionPage.UsedUris">
+		<item value="file:///D:\Hibernate\WS-Hibernate"/>
+	</list>
+	<section name="org.eclipse.egit.ui.internal.staging.StagingView">
+		<item key="HORIZONTAL_SASH_FORM_WEIGHT" value="200,200"/>
+		<item key="STAGING_SASH_FORM_WEIGHT" value="200,200"/>
+		<item key="sortItemState" value="false"/>
+	</section>
+	<section name="GitCommitMessageComponent">
+		<list key="D:\Hibernate\WS-Hibernate\HB01-FirstApp\.git">
+			<item value="empty"/>
+		</list>
+		<list key="D:\Hibernate\WS-Hibernate\HB06-MultiClasses-OneToMany\.git">
+			<item value="empty"/>
+		</list>
+		<list key="D:\Hibernate\WS-Hibernate\HB02-InheritanceMapping-TablePerClassHierarchy\.git">
+			<item value="empty"/>
+		</list>
+	</section>
+</section>
