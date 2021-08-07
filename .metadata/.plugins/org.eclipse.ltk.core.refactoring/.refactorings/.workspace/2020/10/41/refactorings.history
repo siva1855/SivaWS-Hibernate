@@ -1,3 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">&#x0A;<refactoring comment="Delete resource &apos;JPA01-EntityClassRules&apos;" deleteContents="true" description="Delete resource &apos;JPA01-EntityClassRules&apos;" element1="/JPA01-EntityClassRules" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1602256122129"/>&#x0A;<refactoring comment="Delete resource &apos;JPA02-Entity&apos;" deleteContents="true" description="Delete resource &apos;JPA02-Entity&apos;" element1="/JPA02-Entity" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1602256127180"/>
-</session>
